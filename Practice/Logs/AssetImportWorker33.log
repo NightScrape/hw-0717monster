@@ -1,0 +1,173 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1110; Version 2009; 64bit' Language: 'zh' Physical Memory: 3963 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker33
+-projectPath
+D:/Github/hw-0717monster/Practice
+-logFile
+Logs/AssetImportWorker33.log
+-srvPort
+53168
+Successfully changed project path to: D:/Github/hw-0717monster/Practice
+D:/Github/hw-0717monster/Practice
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/hw-0717monster/Practice/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   
+    VRAM:     2020 MB
+    Driver:   23.21.13.8873
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001495 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.406 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004666 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.644 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.49 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2085 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2518.
+Total: 3686.179900 ms (FindLiveObjects: 0.262900 ms CreateObjectMapping: 0.090800 ms MarkObjects: 3612.076500 ms  DeleteObjects: 73.746300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Simple 2D Platformer BE2
+  artifactKey: Guid(777c3684813a55343a87629b277b8c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2 using Guid(777c3684813a55343a87629b277b8c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8310e63041dacaffa168920320d1ba28') in 5.253523 seconds 
+  Import took 6.505820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000839 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites
+  artifactKey: Guid(d35022487eaac8945aa36ed98707fea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites using Guid(d35022487eaac8945aa36ed98707fea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d241966742c5188147634e720b1f5cc') in 0.315224 seconds 
+  Import took 0.887223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Enemy.png
+  artifactKey: Guid(5d4daff38e3d9174b873918abcf2c1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Enemy.png using Guid(5d4daff38e3d9174b873918abcf2c1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06cc7827525214132a1641a718b9c35f') in 28.073608 seconds 
+  Import took 28.900491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000674 seconds.
+  path: Assets/monster.cs
+  artifactKey: Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/monster.cs using Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf6db2734b431900a997494c90fbc86') in 0.308564 seconds 
+  Import took 0.668138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 823.098050 seconds.
+  path: Assets/monster.cs
+  artifactKey: Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/monster.cs using Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1087e9cefe3159de1beacad5146cb0ca') in 0.473883 seconds 
+  Import took 0.721953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068556 seconds.
+  path: Assets/monster.cs
+  artifactKey: Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/monster.cs using Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1087e9cefe3159de1beacad5146cb0ca') in 0.114235 seconds 
+  Import took 0.214967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 885.569525 seconds.
+  path: Assets/monster.cs
+  artifactKey: Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/monster.cs using Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e098d8a9b31a584dbd76a86729c2d1c') in 0.062936 seconds 
+  Import took 0.352629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.223051 seconds.
+  path: Assets/monster.cs
+  artifactKey: Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/monster.cs using Guid(4570b68f79066254fac1ecdaacc9c60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ee5f5f9a06959eb1683c18517affb5') in 0.068655 seconds 
+  Import took 0.141985 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 1.036319 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 15.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 17.021 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2529.
+Total: 171.916400 ms (FindLiveObjects: 85.892300 ms CreateObjectMapping: 0.200700 ms MarkObjects: 67.192500 ms  DeleteObjects: 18.625900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
